@@ -35,6 +35,7 @@ ArrayList<Mascota> listaMascotas = new ArrayList<Mascota>();
 				+ "6. Buscar mascota por DNI\r\n"
 				+ "7. Salir");
 		opcion = ValidarEntero(sc, 1, 7, "selecione opcion");
+		System.out.println("hola");
 		
 		switch(opcion) {
 		case 1:
