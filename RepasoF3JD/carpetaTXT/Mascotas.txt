@@ -1,0 +1,2 @@
+P,1,perro,21,aries,false,12345678L
+G,2,gato,32,gray,C,12345678P
